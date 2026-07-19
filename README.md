@@ -20,6 +20,8 @@ Python ilə yazılmış ARP/Port scanner. Şəbəkəndəki cihazları (IP, MAC, 
 ```bash
 git clone https://github.com/testere-development/networkScaner.git
 cd networkScaner
+python3 -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 > ARP scan `scapy` istifadə etdiyi üçün root/admin hüquqları tələb edir.
