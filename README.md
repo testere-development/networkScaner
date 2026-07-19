@@ -7,7 +7,7 @@
   |_|\___||___/\__\___|_|  \___|
   network scanner · github.com/testere-development/networkScaner
 ```
-Python ilə yazılmış ARP/PING/Port scanner. Şəbəkəndəki cihazları (IP, MAC, vendor) tapır və hədəf host üzərində port scan edir.
+Python ilə yazılmış ARP/Port scanner. Şəbəkəndəki cihazları (IP, MAC, vendor) tapır və hədəf host üzərində port scan edir.
 ## Xüsusiyyətlər
 - **Auto ARP scan** — linux üzərində aktiv şəbəkə interfeysini avtomatik tapıb skan edir
 - **Auto PING scan** — linux üzərində aktiv interfeysi tapıb subnet üzrə ping scan edir
