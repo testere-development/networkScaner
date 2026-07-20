@@ -43,7 +43,7 @@ class Network:
     #---------Help----------------
     def Help(self):
         help="""
-    usage: script.py [-h] [-aa] [-ap] [-t T] [-p P] [-sn SN] [-o O]
+    usage: discovery.py [-h] [-aa] [-ap] [-t T] [-p P] [-sn SN] [-o O]
 
 -h, --h   show help / kömək mesajı
 -aa       auto ARP scan, detects interface (Linux only) / avtomatik ARP scan, interfeysi özü tapır (yalnız Linux)
